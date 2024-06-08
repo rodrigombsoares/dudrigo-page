@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dudrigo-page/static/css/main.71a89163.css",
+    "main.js": "/dudrigo-page/static/js/main.7b53ee57.js",
+    "static/media/header2.jpg": "/dudrigo-page/static/media/header2.1b0c71bccf98e11d1f16.jpg",
+    "static/media/RSVP.png": "/dudrigo-page/static/media/RSVP.25c5b5bd2063ad74d5b5.png",
+    "static/media/header.jpg": "/dudrigo-page/static/media/header.33c7a0eb8680e8f4d44a.jpg",
+    "static/media/thankYou.jpeg": "/dudrigo-page/static/media/thankYou.5902b39a9eb5619acef0.jpeg",
+    "static/media/passeio.png": "/dudrigo-page/static/media/passeio.72766c8124a2aaf03b24.png",
+    "static/media/basilica.png": "/dudrigo-page/static/media/basilica.fb8b30d28ac864df6115.png",
+    "static/media/logo.png": "/dudrigo-page/static/media/logo.d2aa60a7acb492d8aca8.png",
+    "static/media/iate.jpeg": "/dudrigo-page/static/media/iate.00b4c00a944ddb02b0ab.jpeg",
+    "static/media/amazon.png": "/dudrigo-page/static/media/amazon.36fc89667150b5495202.png",
+    "static/media/flower_long.png": "/dudrigo-page/static/media/flower_long.2ef53afdaa8dafe74804.png",
+    "static/media/google-calendar.png": "/dudrigo-page/static/media/google-calendar.af5e0819ac19cf3ab7bf.png",
+    "index.html": "/dudrigo-page/index.html",
+    "main.71a89163.css.map": "/dudrigo-page/static/css/main.71a89163.css.map",
+    "main.7b53ee57.js.map": "/dudrigo-page/static/js/main.7b53ee57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71a89163.css",
+    "static/js/main.7b53ee57.js"
+  ]
+}
