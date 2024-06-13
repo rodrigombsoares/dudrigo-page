@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.71a89163.css",
-    "main.js": "/static/js/main.61075d4b.js",
+    "main.js": "/static/js/main.0086dedf.js",
     "static/media/header2.jpg": "/static/media/header2.1b0c71bccf98e11d1f16.jpg",
-    "static/media/RSVP.png": "/static/media/RSVP.25c5b5bd2063ad74d5b5.png",
+    "static/media/RSVP.png": "/static/media/RSVP.743a84b93937df259e99.png",
     "static/media/header.jpg": "/static/media/header.33c7a0eb8680e8f4d44a.jpg",
     "static/media/thankYou.jpeg": "/static/media/thankYou.5902b39a9eb5619acef0.jpeg",
     "static/media/passeio.png": "/static/media/passeio.72766c8124a2aaf03b24.png",
@@ -15,10 +15,10 @@
     "static/media/google-calendar.png": "/static/media/google-calendar.af5e0819ac19cf3ab7bf.png",
     "index.html": "/index.html",
     "main.71a89163.css.map": "/static/css/main.71a89163.css.map",
-    "main.61075d4b.js.map": "/static/js/main.61075d4b.js.map"
+    "main.0086dedf.js.map": "/static/js/main.0086dedf.js.map"
   },
   "entrypoints": [
     "static/css/main.71a89163.css",
-    "static/js/main.61075d4b.js"
+    "static/js/main.0086dedf.js"
   ]
 }
